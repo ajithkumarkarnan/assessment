@@ -4,7 +4,7 @@ MAINTAINER AJITH.K <ajithkumar001259@gmail.com>
 
 RUN ls
 
-CMD ["echo","hello.... from my first docker image"]
+CMD ["echo","hai.... from my first docker image"]
 
 
 
