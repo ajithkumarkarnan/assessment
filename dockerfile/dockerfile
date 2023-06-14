@@ -2,7 +2,7 @@ FROM ubuntu
 
 MAINTAINER AJITH.K <ajithkumar001259@gmail.com>
 
-RUN als
+RUN ls
 
 CMD ["echo","hai.... from my first docker image"]
 
